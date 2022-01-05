@@ -1,0 +1,85 @@
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  body {
+    background-color: rgb(3, 3, 82);
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  ul {
+    text-align-last: center;
+}
+li {
+    text-align-last: center;
+}
+button {
+  background-color: blue;
+  color: black;
+  border: 2px solid cadetblue;
+
+}
+
+body {
+  font-family: "Trirong", serif;
+}
+
+.fa {
+  padding: 30px;
+  font-size: 20px;
+  width: 10px;
+  text-align: center;
+  display: inline;
+  text-decoration: none;
+  border-radius: 50%;
+  align-content: center;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
